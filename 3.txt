@@ -100,18 +100,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/yyds直播.py"
     },
     {
-      "key": "tiktok",
-      "name": "tiktok.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/tiktok.py"
-    },
-    {
-      "key": "tiktok连播流",
-      "name": "tiktok连播流.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/tiktok连播流.py"
-    },
-    {
       "key": "123AV",
       "name": "123AV.py｜🔞",
       "type": 3,
@@ -212,12 +200,6 @@
       "name": "missav_1.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/missav_1.py"
-    },
-    {
-      "key": "missav_2",
-      "name": "missav_2.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/missav_2.py"
     },
     {
       "key": "MissAV_3",
@@ -502,12 +484,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/每日大乱斗.py"
     },
     {
-      "key": "91成人短剧",
-      "name": "91成人短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91成人短剧.py"
-    },
-    {
       "key": "91成人短剧_1",
       "name": "91成人短剧_1.py｜🔞",
       "type": 3,
@@ -530,12 +506,6 @@
       "name": "57短剧.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/57短剧.py"
-    },
-    {
-      "key": "青桔短剧",
-      "name": "青桔短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/青桔短剧.py"
     },
     {
       "key": "huangguo",
@@ -596,12 +566,6 @@
       "name": "有声骚麦.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/有声骚麦.py"
-    },
-    {
-      "key": "hentaiasmr",
-      "name": "hentaiasmr.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/hentaiasmr.py"
     },
     {
       "key": "91动漫",
@@ -752,18 +716,6 @@
       "name": "茄子精品.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/茄子精品.py"
-    },
-    {
-      "key": "小红薯APP",
-      "name": "小红薯APP.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/小红薯APP.py"
-    },
-    {
-      "key": "笔盒",
-      "name": "笔盒.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/笔盒.py"
     },
     {
       "key": "抖阴",
