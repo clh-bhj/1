@@ -45,7 +45,7 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Leo_TV.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="C",Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/reality-kings4107.logowik.com.webp" group-title="D",Reality Kings
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/reality-kings4107.logowik.com.webp" group-title="C",Reality Kings
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/EroXXX.svg/revision/latest?cb=20191216100624" group-title="D",Eroxxx
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/EroXXX.svg/revision/latest?cb=20191216100624" group-title="C",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
