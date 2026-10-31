@@ -1,69 +1,49 @@
 #EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
-#EXTINF:-1 group-title="A" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 group-title="A" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 group-title="A" tvg-logo="",香蕉台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 group-title="A" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="A" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 group-title="A" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 group-title="A" tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/20141014174815AC3NVWC.png",松视1台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="A" tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/20141017171414PCw2jYN.png",松视2台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 group-title="A" tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/201410171714027yS2M7G.png",松视3台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
-#EXTINF:-1 group-title="B" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
-#EXTINF:-1 group-title="B" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
+#EXTINF:-1 group-title="A" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-#EXTINF:-1 group-title="B",惊艳台
+#EXTINF:-1 group-title="A",惊艳台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
-#EXTINF:-1 group-title="B" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
+#EXTINF:-1 group-title="A" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
-#EXTINF:-1 group-title="B" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
+#EXTINF:-1 group-title="A" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
-#EXTINF:-1 group-title="B" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
+#EXTINF:-1 group-title="A" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
-#EXTINF:-1 group-title="B" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
+#EXTINF:-1 group-title="A" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
 
 
-#EXTINF:-1 group-title="C" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
+#EXTINF:-1 group-title="B" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 group-title="C" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
+#EXTINF:-1 group-title="B" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
 http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="C" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台(125)
+#EXTINF:-1 group-title="B" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台(125)
 http://125.227.210.55:3016/VideoInput/play.ts
-#EXTINF:-1 group-title="C" tvg-logo="",Sex girl(125)
+#EXTINF:-1 group-title="B" tvg-logo="",Sex girl(125)
 http://125.227.210.55:3031/VideoInput/play.ts
-#EXTINF:-1 group-title="C" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
+#EXTINF:-1 group-title="B" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 group-title="C" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
+#EXTINF:-1 group-title="B" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
 http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="C" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台(125)
+#EXTINF:-1 group-title="B" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台(125)
 http://125.227.210.55:3016/VideoInput/play.ts
-#EXTINF:-1 group-title="C" tvg-logo="",Sex girl(125)
+#EXTINF:-1 group-title="B" tvg-logo="",Sex girl(125)
 http://125.227.210.55:3031/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babes_TV.svg/revision/latest?cb=20211001144154" group-title="D",Babes
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babes_TV.svg/revision/latest?cb=20211001144154" group-title="C",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png" group-title="D",Brazzers
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png" group-title="C",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.eu-startups.com/wp-content/uploads/2022/08/extasy-logo.webp" group-title="D",Extasy
+#EXTINF:-1 tvg-logo="https://www.eu-startups.com/wp-content/uploads/2022/08/extasy-logo.webp" group-title="C",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq73R3avMek7qaUbrUnIkI-8FdKMGUPua5xGhAAivQfg&s=10" group-title="D",Erox
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq73R3avMek7qaUbrUnIkI-8FdKMGUPua5xGhAAivQfg&s=10" group-title="C",Erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/960px-Dorcel_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="D",Dorcel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/960px-Dorcel_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="C",Dorcel
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-media.original-group.com/wp-content/uploads/2026/01/14135943/desire-isotipo-sm.png" group-title="D",Desire
+#EXTINF:-1 tvg-logo="https://cdn-media.original-group.com/wp-content/uploads/2026/01/14135943/desire-isotipo-sm.png" group-title="C",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Leo_TV.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="D",Leo HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Leo_TV.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="C",Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/reality-kings4107.logowik.com.webp" group-title="D",Reality Kings
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
